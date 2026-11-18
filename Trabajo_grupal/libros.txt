@@ -1,0 +1,6 @@
+1,Python para todos,Charles Severance,Prestado
+2,Aprende Java,Ana Torres,Disponible
+3,Bases de datos,Carlos Mora,Disponible
+4,Clean Code,Robert Martin,Prestado
+5,Estructura de datos,Luis Joyanes,Disponible
+6,Basta de amores de mierda,Gonzalo Romero,Disponible

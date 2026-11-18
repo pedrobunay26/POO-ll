@@ -1,0 +1,5 @@
+nombre: Steven Ortiz 
+cedula: 0151195419 
+edad: 24 
+direccion: Cuenca 
+correo: ortiz@gmail.com 

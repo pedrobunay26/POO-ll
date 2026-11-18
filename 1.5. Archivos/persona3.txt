@@ -1,0 +1,49 @@
+ 
+Persona 1
+nombre: Pedro Buñay 
+cedula: 0151195419 
+edad: 22 
+direccion: Cuenca 
+correo: 26pedro@gmail.com 
+ 
+Persona 2
+nombre: Domenica crespo 
+cedula: 0151195419 
+edad: 21 
+direccion: Cuenca 
+correo: dome@gmail.com 
+ 
+Persona 3
+nombre: Kevin Chicaiza 
+cedula: 0151195419 
+edad: 22 
+direccion: Cuenca 
+correo: kevin@gmail.com 
+ 
+Persona 4
+nombre: Karen Carabajo 
+cedula: 0151195419 
+edad: 19 
+direccion: Cuenca 
+correo: karen@gmail.com 
+ 
+Persona 5
+nombre: Steven Ortiz 
+cedula: 0151195419 
+edad: 2 
+direccion: Cuenca 
+correo: ortiz@gmail.com 
+
+Persona 6
+nombre: Mario Valdiviezo 
+cedula: 0151195419 
+edad: 2 
+direccion: Cuenca 
+correo: mario@gmail.com 
+
+Persona 6
+nombre: Mario Valdiviezo 
+cedula: 0151195419 
+edad: 2 
+direccion: Cuenca 
+correo: mario@gmail.com 
