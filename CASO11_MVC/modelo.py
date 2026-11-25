@@ -4,18 +4,15 @@ class Articulo:
         self.nombre = nombre
         self.precio = precio
         self.stock = stock
-        self.error = ""  
 
     def vender(self, cantidad):
         if cantidad <= 0:
-            self.error = "Error: la cantidad debe ser mayor que cero."
-            return False
+            return False , "Error: la cantidad debe ser mayor que cero"
         if cantidad > self.stock:
-            self.error = f"Error: solo hay {self.stock} unidades."
-            return False
+            
+            return False,f"Error: solo hay {self.stock} unidades."
         self.stock -= cantidad
-        self.error = ""
-        return True
+        return True,f"Listo. Quedan {self.stock} unidades."
 
     def __str__(self):
         return f"{self.codigo:<8}{self.nombre:<15}{self.precio:>8.2f}{self.stock:>8}"
